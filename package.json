@@ -1,7 +1,7 @@
 {
   "name": "list-control",
   "version": "1.0.0",
-    "main": "src/index.jsx",
+  "main": "src/index.jsx",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
@@ -11,12 +11,15 @@
   "dependencies": {
     "expo": "~54.0.10",
     "expo-status-bar": "~3.0.8",
+    "lucide-react-native": "^0.544.0",
     "nativewind": "^5.0.0-preview.1",
     "react": "19.1.0",
     "react-dom": "19.1.0",
     "react-native": "0.81.4",
+    "react-native-modalize": "^2.1.1",
     "react-native-reanimated": "~4.1.1",
     "react-native-safe-area-context": "~5.6.0",
+    "react-native-svg": "^15.13.0",
     "react-native-web": "^0.21.0"
   },
   "private": true,
